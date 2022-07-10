@@ -4,4 +4,4 @@ I am learning html and css and this is my first project that i did of a restaure
 
 # How to view the website?
 
-Download the folder and open the index.html file
+Download the zip folder and open the index.html file
