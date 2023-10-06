@@ -11,7 +11,7 @@ body{
     background-position: center;
 }
 .container{
-    margin-left: auto;
+    margin-left: 360px;
     margin-right: auto;
     width: 1024px;
 }
@@ -35,7 +35,7 @@ main{
     height: 400px;
     text-align: center;
     padding-top: 80px;
-    padding-left: 240px;
+    padding-left: 360px;
     padding-right: 240px;
 }
 
